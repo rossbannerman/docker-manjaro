@@ -1,4 +1,4 @@
-FROM jonathonf/manjaro:latest
+FROM manjarolinux/base:latest
 
 LABEL maintainer="Ross Bannerman <ross@bnnr.mn>"
 

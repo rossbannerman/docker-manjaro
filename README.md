@@ -6,7 +6,5 @@
 ## Manjaro
 [Manjaro](https://manjaro.org/) OS image with latest available packages
 
-Based on [jonathonf/manjaro](https://hub.docker.com/r/jonathonf/manjaro/)
-
 ## Usage
 `docker run --name manjaro --rm -it rossbannerman/manjaro:latest /bin/bash`
