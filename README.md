@@ -9,4 +9,4 @@
 Based on [jonathonf/manjaro](https://hub.docker.com/r/jonathonf/manjaro/)
 
 ## Usage
-`docker run --name ansible --rm -it rossbannerman/manjaro:latest /bin/bash`
+`docker run --name manjaro --rm -it rossbannerman/manjaro:latest /bin/bash`
